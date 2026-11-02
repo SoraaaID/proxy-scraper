@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Automated Free Proxy Scraper & Verifier
-Author: SoraDev-ID
+Author: SoraaaID
 Description: Mengambil daftar proxy publik (HTTP, SOCKS4, SOCKS5) dari berbagai sumber terpercaya,
              membersihkan duplikat, memvalidasi format IP:PORT publik, dan melakukan verifikasi fungsional HTTP GET.
 """
@@ -382,7 +382,7 @@ def main():
     start_time = time.time()
     print("══════════════════════════════════════════════════════════════")
     print("          AUTOMATED PROXY SCRAPER & VERIFIER")
-    print("                  Author: SoraDev-ID")
+    print("                  Author: SoraaaID")
     print("══════════════════════════════════════════════════════════════\n")
 
     session = create_session()

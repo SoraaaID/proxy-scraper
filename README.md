@@ -140,7 +140,7 @@ Workflow auto-updater dijadwalkan berjalan sesering mungkin di GitHub Actions (c
 ## ⚖️ Disclaimer (Penyangkalan)
 
 Semua proxy di dalam repository ini dikumpulkan secara publik dari berbagai agregator dan database open-source di internet. 
-- Penulis (**SoraDev-ID**) **tidak mengoperasikan, mengontrol, atau menjamin keandalan/keamanan** dari server proxy yang terdaftar.
+- Penulis (**SoraaaID**) **tidak mengoperasikan, mengontrol, atau menjamin keandalan/keamanan** dari server proxy yang terdaftar.
 - **Dilarang keras** menggunakan proxy ini untuk aktivitas ilegal, penipuan, peretasan, atau tindakan merugikan lainnya.
 - Gunakan secara bijak dan bertanggung jawab, terutama untuk kebutuhan riset, pengujian kompabilitas jaringan, dan pengikisan data publik (*ethical web scraping*).
 
@@ -151,5 +151,5 @@ Semua proxy di dalam repository ini dikumpulkan secara publik dari berbagai agre
 Proyek ini dirilis di bawah lisensi resmi **[MIT License](LICENSE)**.
 
 <p align="center">
-  Dikelola dengan ⚡ oleh <b><a href="https://github.com/SoraaaID">SoraDev-ID</a></b>
+  Dikelola dengan ⚡ oleh <b><a href="https://github.com/SoraaaID">SoraaaID</a></b>
 </p>
