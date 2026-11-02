@@ -133,7 +133,7 @@ python scraper.py --check --timeout 1.5 --workers 150
 
 ## ℹ️ Jadwal Pembaruan Otomatis
 
-Workflow auto-updater dijalankan secara terjadwal setiap **5 menit** (`*/5 * * * *`) sesuai interval minimum resmi GitHub Actions. Selain jadwal otomatis bawaan, pembaruan juga dapat dipicu secara manual melalui tab **Actions** (`workflow_dispatch`) atau melalui webhook eksternal (`repository_dispatch`). Panduan setup webhook 1 menit dapat dilihat di [docs/external-cron.md](docs/external-cron.md).
+Workflow auto-updater dijadwalkan berjalan sesering mungkin di GitHub Actions (cron `*/5 * * * *`). Karena scheduler GitHub Actions untuk workflow terjadwal berjalan mengikuti antrean dan tidak selalu tepat waktu, dalam praktiknya daftar proxy ter-update **beberapa kali sehari**. Pembaruan juga dapat dipicu secara manual melalui tab **Actions** (`workflow_dispatch`) atau melalui webhook eksternal (`repository_dispatch`). Panduan setup webhook 1 menit dapat dilihat di [docs/external-cron.md](docs/external-cron.md).
 
 ---
 
