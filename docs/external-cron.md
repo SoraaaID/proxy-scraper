@@ -1,6 +1,6 @@
 # Setup External Scheduler untuk GitHub Actions (1 Menit Interval)
 
-Panduan ini menjelaskan cara memicu workflow GitHub Actions pada repositori `SoraDev-ID/proxy-scraper` setiap 1 menit menggunakan webhook `repository_dispatch` melalui layanan gratis cron-job.org untuk melewati batasan cron bawaan GitHub Actions (yang memiliki limit minimum interval 5 menit).
+Panduan ini menjelaskan cara memicu workflow GitHub Actions pada repositori `SoraaaID/proxy-scraper` setiap 1 menit menggunakan webhook `repository_dispatch` melalui layanan gratis cron-job.org untuk melewati batasan cron bawaan GitHub Actions (yang memiliki limit minimum interval 5 menit).
 
 ---
 
@@ -34,7 +34,7 @@ Panduan ini menjelaskan cara memicu workflow GitHub Actions pada repositori `Sor
    - **Title**: `Proxy Scraper Trigger`
    - **URL**:
      ```text
-     https://api.github.com/repos/SoraDev-ID/proxy-scraper/dispatches
+     https://api.github.com/repos/SoraaaID/proxy-scraper/dispatches
      ```
    - **Request Method**: Ubah menjadi `POST`.
 3. Buka tab atau bagian **Headers**, lalu tambahkan 3 header berikut:
@@ -67,7 +67,7 @@ Panduan ini menjelaskan cara memicu workflow GitHub Actions pada repositori `Sor
 1. Di cron-job.org, periksa tab **History** pada job yang baru dibuat. Pastikan response code mengembalikan **HTTP 204 No Content** (status sukses dari GitHub API).
 2. Buka tab **Actions** di repositori GitHub:
    ```text
-   https://github.com/SoraDev-ID/proxy-scraper/actions
+   https://github.com/SoraaaID/proxy-scraper/actions
    ```
 3. Periksa daftar workflow run:
    - Anda akan melihat workflow `Automated Proxy Scraper` terpicu dengan deskripsi event `repository_dispatch`.
