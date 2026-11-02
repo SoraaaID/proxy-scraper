@@ -1,6 +1,6 @@
 # ⚡ Automated Fast Proxy Scraper
 
-[![Proxy Update Workflow](https://github.com/SoraDev-ID/proxy-scraper/actions/workflows/update-proxy.yml/badge.svg)](https://github.com/SoraDev-ID/proxy-scraper/actions/workflows/update-proxy.yml)
+[![Proxy Update Workflow](https://github.com/SoraaaID/proxy-scraper/actions/workflows/update-proxy.yml/badge.svg)](https://github.com/SoraaaID/proxy-scraper/actions/workflows/update-proxy.yml)
 [![Protocols](https://img.shields.io/badge/Protocols-HTTP%20%7C%20SOCKS4%20%7C%20SOCKS5-3D5AFE?style=flat-square)](#)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10B981?style=flat-square)](LICENSE)
@@ -15,10 +15,10 @@ Gunakan tautan `raw.githubusercontent.com` di bawah ini untuk mengunduh atau men
 
 | Protokol | Tautan Raw GitHub | Format |
 | :--- | :--- | :---: |
-| **HTTP / HTTPS** | [`https://raw.githubusercontent.com/SoraDev-ID/proxy-scraper/main/http.txt`](https://raw.githubusercontent.com/SoraDev-ID/proxy-scraper/main/http.txt) | `IP:PORT` |
-| **SOCKS4** | [`https://raw.githubusercontent.com/SoraDev-ID/proxy-scraper/main/socks4.txt`](https://raw.githubusercontent.com/SoraDev-ID/proxy-scraper/main/socks4.txt) | `IP:PORT` |
-| **SOCKS5** | [`https://raw.githubusercontent.com/SoraDev-ID/proxy-scraper/main/socks5.txt`](https://raw.githubusercontent.com/SoraDev-ID/proxy-scraper/main/socks5.txt) | `IP:PORT` |
-| **Status Update** | [`https://raw.githubusercontent.com/SoraDev-ID/proxy-scraper/main/last_updated.txt`](https://raw.githubusercontent.com/SoraDev-ID/proxy-scraper/main/last_updated.txt) | Metadata & Count |
+| **HTTP / HTTPS** | [`https://raw.githubusercontent.com/SoraaaID/proxy-scraper/main/http.txt`](https://raw.githubusercontent.com/SoraaaID/proxy-scraper/main/http.txt) | `IP:PORT` |
+| **SOCKS4** | [`https://raw.githubusercontent.com/SoraaaID/proxy-scraper/main/socks4.txt`](https://raw.githubusercontent.com/SoraaaID/proxy-scraper/main/socks4.txt) | `IP:PORT` |
+| **SOCKS5** | [`https://raw.githubusercontent.com/SoraaaID/proxy-scraper/main/socks5.txt`](https://raw.githubusercontent.com/SoraaaID/proxy-scraper/main/socks5.txt) | `IP:PORT` |
+| **Status Update** | [`https://raw.githubusercontent.com/SoraaaID/proxy-scraper/main/last_updated.txt`](https://raw.githubusercontent.com/SoraaaID/proxy-scraper/main/last_updated.txt) | Metadata & Count |
 
 ---
 
@@ -111,7 +111,7 @@ print(response.json())
 
 ### 1. Kloning Repository
 ```bash
-git clone https://github.com/SoraDev-ID/proxy-scraper.git
+git clone https://github.com/SoraaaID/proxy-scraper.git
 cd proxy-scraper
 ```
 
@@ -151,5 +151,5 @@ Semua proxy di dalam repository ini dikumpulkan secara publik dari berbagai agre
 Proyek ini dirilis di bawah lisensi resmi **[MIT License](LICENSE)**.
 
 <p align="center">
-  Dikelola dengan ⚡ oleh <b><a href="https://github.com/SoraDev-ID">SoraDev-ID</a></b>
+  Dikelola dengan ⚡ oleh <b><a href="https://github.com/SoraaaID">SoraDev-ID</a></b>
 </p>
