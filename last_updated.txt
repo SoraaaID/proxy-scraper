@@ -1,19 +1,19 @@
 ### MACHINE-PARSEABLE JSON (parseable by scripts) ###
 {
-  "updated_at_utc": "2026-11-17T03:22:22Z",
-  "updated_at_wib": "2026-11-17T10:22:22+07:00",
-  "duration_seconds": 201.19,
+  "updated_at_utc": "2026-11-17T12:09:09Z",
+  "updated_at_wib": "2026-11-17T19:09:09+07:00",
+  "duration_seconds": 196.92,
   "proxy_counts": {
-    "http": 240,
-    "socks4": 250,
-    "socks5": 275
+    "http": 161,
+    "socks4": 246,
+    "socks5": 255
   },
-  "total": 765,
+  "total": 662,
   "status": "success",
   "anonymity_summary": {
-    "elite": 104,
-    "transparent": 134,
-    "anonymous": 527
+    "transparent": 85,
+    "elite": 75,
+    "anonymous": 502
   }
 }
 
@@ -21,20 +21,20 @@
 ══════════════════════════════════════════════════════════════
           Proxy Scraper - Status Pembaruan Terakhir
 ══════════════════════════════════════════════════════════════
-Waktu Update (UTC) : 2026-11-17 03:22:22 UTC
-Waktu Update (WIB) : 2026-11-17 10:22:22 WIB
-Durasi Scrape      : 201.19 detik
+Waktu Update (UTC) : 2026-11-17 12:09:09 UTC
+Waktu Update (WIB) : 2026-11-17 19:09:09 WIB
+Durasi Scrape      : 196.92 detik
 ══════════════════════════════════════════════════════════════
 Statistik Proxy:
-- HTTP / HTTPS     :    240 proxy
-- SOCKS4           :    250 proxy
-- SOCKS5           :    275 proxy
+- HTTP / HTTPS     :    161 proxy
+- SOCKS4           :    246 proxy
+- SOCKS5           :    255 proxy
 --------------------------------------------------
 Klasifikasi Anonimitas:
-- Anonymous       :    527 proxy
-- Elite           :    104 proxy
-- Transparent     :    134 proxy
+- Anonymous       :    502 proxy
+- Elite           :     75 proxy
+- Transparent     :     85 proxy
 --------------------------------------------------
-Total Keseluruhan  :    765 proxy
+Total Keseluruhan  :    662 proxy
 Status Otomasi     : Berhasil Diperbarui
 ══════════════════════════════════════════════════════════════
